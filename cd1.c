@@ -1,3 +1,4 @@
+//Q-->Implement DFA accepting all the string with inputs 0,1 where each string is even binary number.
 #include<stdio.h>
 int main(){
 	int input[100],i,n;
